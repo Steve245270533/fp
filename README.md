@@ -1,5 +1,6 @@
 # JavaScript函数式编程指南(Functional Programming)
 
+[在线文档地址](https://steve245270533.github.io/fp/)
 
 ## 说明
 
@@ -8,8 +9,6 @@
 > 联系方式：
 >
 > QQ: 245270533
-
----
 
 ## 关于函数式编程
 

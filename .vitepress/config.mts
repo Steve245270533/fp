@@ -6,7 +6,7 @@ export default defineConfig({
   title: "JavaScript函数式编程指南",
   description: "函数式编程指南",
   head: [
-    ["link", {rel: "icon", href: "/favicon.ico"}]
+    ["link", {rel: "icon", href: "./favicon.ico"}]
   ],
   themeConfig: {
     logo: '/images/logo.svg',

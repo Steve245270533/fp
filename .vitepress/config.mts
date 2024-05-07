@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/fp",
-  title: "JavaScript函数式编程指南",
+  title: "函数式编程指南",
   description: "函数式编程指南",
   head: [
     ["link", {rel: "icon", href: "./favicon.ico"}]

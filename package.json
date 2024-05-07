@@ -1,7 +1,7 @@
 {
   "name": "fp-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "函数式编程教程文档",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,18 @@
     "build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "FP",
+    "Functional Programming",
+    "JavaScript"
+  ],
+  "author": "Steve245270533",
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.1.4"
+  },
+  "dependencies": {
+    "vanilla-tilt": "^1.8.1",
+    "vue": "^3.4.27"
   }
 }

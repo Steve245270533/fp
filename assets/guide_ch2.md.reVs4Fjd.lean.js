@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.DC-ssQ6l.js";const y=JSON.parse('{"title":"第 2 章: 一等公民的函数","description":"","frontmatter":{},"headers":[],"relativePath":"guide/ch2.md","filePath":"guide/ch2.md"}'),h={name:"guide/ch2.md"},t=n("",38),p=[t];function l(k,e,d,r,E,g){return a(),i("div",null,p)}const o=s(h,[["render",l]]);export{y as __pageData,o as default};
